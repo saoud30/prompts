@@ -10,7 +10,7 @@ I create a list of amends for Lovable to make from the first version of the webs
 
 I integrate a 3d asset from Spline and tweak positioning and styling using dev mode
 
-Prompt as an example:
+Example Prompt:
 
 Create a luxury feeling high-end website, as if you were a senior website designer working with startups for an app which turns the GitHub user's info into a 3d flappable cards format called GitHub explorer. Do the website design to match the style of the attached image 'reference'. I want the website to feature the following pages: Homepage, About page, contact us page, and a blog page with 4 blog articles already populated.
 
