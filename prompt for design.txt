@@ -1,14 +1,14 @@
 Key points:
 
-I talk through my prompt process for working with Lovable
+I talk through my prompt process for working with Lovable.
 
-I talk about using references and adding images for Lovable to use in the initial prompt
+I talk about using references and adding images for Lovable to use in the initial prompt.
 
-I start building my website, and use ChatGPT image to create custom assets and a logo for the brand
+I start building my website, and use ChatGPT image to create custom assets and a logo for the brand.
 
-I create a list of amends for Lovable to make from the first version of the website
+I create a list of amends for Lovable to make from the first version of the website.
 
-I integrate a 3d asset from Spline and tweak positioning and styling using dev mode
+I integrate a 3d asset from Spline and tweak positioning and styling using dev mode.
 
 Example Prompt:
 
