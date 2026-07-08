@@ -53,5 +53,3 @@ No fake glow.
 No flat lighting.
 No over-smooth skin.
 
-
-https://mohammad-saoud-folio.lovable.app/
